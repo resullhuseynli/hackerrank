@@ -53,7 +53,7 @@ public class Java2DArray {
             }
         }
 
-        int maxValue = mySumList.get(0);
+        int maxValue = mySumList.getFirst();
 
         for (int i = 1 ; i < mySumList.size() ; i++) {
             maxValue = Math.max(maxValue, mySumList.get(i));
