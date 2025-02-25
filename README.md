@@ -28,5 +28,5 @@ Feel free to contribute by improving solutions, adding explanations, or optimizi
 For any questions, reach out to me on **GitHub** or email me at **resulhuseynli5555@gmail.com**.
 
 ---
-Happy Coding! 🚀
+Happy Coding! 🚀 
 
