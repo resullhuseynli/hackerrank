@@ -22,6 +22,7 @@ public class JavaHashSet {
             String sortedPair = pair[0] + "," + pair[1];
             uniquePairs.add(sortedPair);
             System.out.println(uniquePairs.size());
+
         }
     }
 }
