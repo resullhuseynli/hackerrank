@@ -1,6 +1,3 @@
-import java.io.*;
-import java.util.*;
-
 class BiCycle{
     String define_me(){
         return "a vehicle with pedals.";
